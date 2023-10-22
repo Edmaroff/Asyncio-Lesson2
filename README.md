@@ -6,6 +6,6 @@
 **Вебинар**: 2   
 **Тема**: _«Event loop. Asyncio»_
 
-[Задание](https://github.com/Edmaroff/Asyncio-Lesson1/blob/main/initial_task.md)  
+[Задание](https://github.com/Edmaroff/Asyncio-Lesson2/blob/main/initial_task.md)  
 
 ---

@@ -6,3 +6,4 @@ post.html
 all.html
 .env
 .pytest_cache
+example/
